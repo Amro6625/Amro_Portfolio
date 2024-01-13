@@ -34,4 +34,5 @@ This project was conducted on Behalf of the Humberside Fire and Rescue with the 
 
 This was a experimental project to perform an image classification for touristic landmarks images. During the project i have tested several pretrained models (VGG16, ResNET), SVM model, and CNN models. The images were scrapped from various internet site. The ResNET model had shown the best accuracy with the an accuracy of 98%.
 
+![Resnet testing](https://github.com/Amro6625/Amro_Portfolio/assets/156469647/ed7c2b4c-f473-414b-967f-d6a77a9d5422)
 
