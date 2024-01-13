@@ -6,12 +6,16 @@ Amro Mohamed
 I'm an Engineer with a passion for data science and finding solutions.
 
 ## Education
+
 Bsc Electronic and Telecommunication
+
 Msc Artificial Intelligence and Data Science Modelling
 
 For more details about my projects and each solution, they are described in the data science project section.
 
-Analytics Tools
+
+
+## Analytics Tools
 
 Coding Skills: Python, MySQL.
 
