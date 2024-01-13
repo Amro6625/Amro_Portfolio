@@ -21,11 +21,12 @@ Machine Learning Modeling: Classification, Regression, Clusterization, Time Seri
 
 
 
-Data Science Projects
-Airbnb Scheduling Forecast
+## Data Science Projects
+
+### Social Media Analysis (Sentiment Analysis+Risk Detection)
 To help the booking of the Airbnb this data science project aim to create a machine learning model to predict the first booking of a new user. Unfortunately the database is very desbalanced which difficult the prediction of the model, the best result was 17.48% +/- 0.4% of accuracy. Therefore new approaches guided by the business will be necessary to improve the results.
 
-Health Insurance Cross Sell
+### Image Classification
 To help the sales team, this data science project was created to sort a list to improve the cross-selling. The model was able to organize that almost all interested customers (98.31% +/- 0.16%) stay on up to 50% of the list, saving half of the expenses incurred for calls. So, if each call costs R$ 15.00 in 20,000.00 there is an expense of R$ 300,000.00. Using the model it is possible to spend only R$ 150,000.00.
 
 Transaction Fraud Detection
