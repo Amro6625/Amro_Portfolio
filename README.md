@@ -22,6 +22,10 @@ Data Visualization: Seaborn and Matplotlib.
 Machine Learning Modeling: Classification, Regression, Clusterization, Time Series and Neural Network.
 
 
+![Stacked plot](https://github.com/Amro6625/Amro_Portfolio/assets/156469647/a9f5c0fb-33ac-4729-8665-455d33389891)
+
+
+
 
 ## Data Science Projects
 
