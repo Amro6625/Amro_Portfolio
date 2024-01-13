@@ -1,4 +1,5 @@
 # Data-scientist
+
 Amro Mohamed
 
 
@@ -11,6 +12,7 @@ Msc Artificial Intelligence and Data Science Modelling
 For more details about my projects and each solution, they are described in the data science project section.
 
 Analytics Tools
+
 Coding Skills: Python, MySQL.
 
 Data Processing and Analytics: Jupyter Notebook, Pandas, Numpy.
