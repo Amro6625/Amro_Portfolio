@@ -34,7 +34,7 @@ Machine Learning Modeling: Classification, Regression, Clusterization, Time Seri
 
 ### [Social Media Analysis (Sentiment Analysis and Risk Detection)](https://github.com/Amro6625/Amro_Portfolio)
 
-This project was conducted on Behalf of the Humberside Fire and Rescue with the aim of understanding the community perception by performing a sentiment analysis. The project also aimed to develop a Artificial Intelligence model capable of that would be able to detect the risk in text that could be shared over social media posts this would enable them to take the initiative in resolving any developing situation. The data was collected using twitter API for any mention or hashtag for the organization. There was several transformer used for experimentation along with the development of BiLSTM model. The risk detection model developed had an accuracy of 94%.
+This project was conducted on Behalf of the Humberside Fire and Rescue with the aim of understanding the community perception by performing a sentiment analysis. The project also aimed to develop a Artificial Intelligence model capable of that would be able to detect the risk in text that could be shared over social media posts this would enable them to take the initiative in resolving any developing situation. The data was collected using twitter API for any mention or hashtag for the organization. There was several transformer models used such as(XLNET, RoBERTa) for experimentation along with the development of BiLSTM model. The risk detection model developed achieved an accuracy of 94%.
 
 
 ![Stacked plot](https://github.com/Amro6625/Amro_Portfolio/assets/156469647/a9f5c0fb-33ac-4729-8665-455d33389891)
