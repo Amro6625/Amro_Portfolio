@@ -3,7 +3,7 @@
 Amro Mohamed
 
 
-I'm an Engineer with a passion for data science and finding solutions.
+I'm an engineer and a data scientist with a passion for finding solutions.
 
 ## Education
 
