@@ -1,6 +1,7 @@
 # Data-scientist
 
   
+![profile](https://github.com/Amro6625/Amro_Portfolio/assets/156469647/ec03b97e-3d48-4813-a31f-75068ed34897)
 
 
 
