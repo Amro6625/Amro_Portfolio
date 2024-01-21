@@ -13,6 +13,8 @@ I'm an engineer and a data scientist with a passion for finding solutions.
 
 
 
+
+
 ## Education
 
 Bsc Electronic and Telecommunication
@@ -20,6 +22,8 @@ Bsc Electronic and Telecommunication
 Msc Artificial Intelligence and Data Science Modelling
 
 For more details about my projects and each solution, they are described in the data science project section.
+
+
 
 
 
@@ -42,7 +46,10 @@ Machine Learning Modeling: Classification, Regression, Clusterization, Time Seri
 
 
 
+
+
 ## Data Science Projects
+
 
 ### [Social Media Analysis (Sentiment Analysis and Risk Detection)](https://github.com/Amro6625/Social-Media-Analysis.git)
 
@@ -56,11 +63,16 @@ This project was conducted on Behalf of the Humberside Fire and Rescue with the 
 
 
 
+
+
+
 ### [Landmark (Image Classification)](https://github.com/Amro6625/Landmark_Detection.git)
 
 This was a experimental project to perform an image classification for touristic landmarks images. During the project i have tested several pretrained models (VGG16, ResNET), SVM model, and CNN models. The images were scrapped from various internet site. The ResNET model had shown the best accuracy with the an accuracy of 98%.
 
 ![Resnet testing](https://github.com/Amro6625/Amro_Portfolio/assets/156469647/ed7c2b4c-f473-414b-967f-d6a77a9d5422)
+
+
 
 
 
