@@ -10,6 +10,9 @@ Amro Mohamed
 
 I'm an engineer and a data scientist with a passion for finding solutions.
 
+
+
+
 ## Education
 
 Bsc Electronic and Telecommunication
@@ -17,6 +20,8 @@ Bsc Electronic and Telecommunication
 Msc Artificial Intelligence and Data Science Modelling
 
 For more details about my projects and each solution, they are described in the data science project section.
+
+
 
 
 
@@ -35,6 +40,8 @@ Machine Learning Modeling: Classification, Regression, Clusterization, Time Seri
 
 
 
+
+
 ## Data Science Projects
 
 ### [Social Media Analysis (Sentiment Analysis and Risk Detection)](https://github.com/Amro6625/Amro_Portfolio)
@@ -46,6 +53,9 @@ This project was conducted on Behalf of the Humberside Fire and Rescue with the 
 
 
 
+
+
+
 ### [Landmark (Image Classification)](https://github.com/Amro6625/Amro_Portfolio)
 
 This was a experimental project to perform an image classification for touristic landmarks images. During the project i have tested several pretrained models (VGG16, ResNET), SVM model, and CNN models. The images were scrapped from various internet site. The ResNET model had shown the best accuracy with the an accuracy of 98%.
@@ -54,7 +64,10 @@ This was a experimental project to perform an image classification for touristic
 
 
 
-### [Accident Analysis]
+
+
+
+### [Accident Analysis](https://github.com/Amro6625/Accident_Project-.git)
 
 
 This project investigates road traffic accidents in the United Kingdom in 2020, leveraging SQL relational databases for analysis. The data cleaning process addresses missing entries, focusing on key factors such as road surface conditions and junction details. Analysis reveals patterns in accident occurrences, highlighting peaks on Fridays and during the latter part of the workday. Specific attention is given to motorcycle accidents, pedestrian involvement, and the application of the Apriori algorithm to assess accident severity. Outliers are detected using the Local Outlier Factor method, emphasizing urban concentrations. The study concludes with the development of a stacking classifier for predicting accident severity and recommendations for enhancing road safety, including increased law enforcement presence, awareness campaigns, real-time traffic systems, and the adoption of machine learning models.
