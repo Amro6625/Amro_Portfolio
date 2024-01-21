@@ -1,5 +1,10 @@
 # Data-scientist
 
+
+![profile](https://github.com/Amro6625/Amro_Portfolio/assets/156469647/35c277ac-ac89-42f7-bf89-246d70ceea84)
+
+
+
 Amro Mohamed
 
 
