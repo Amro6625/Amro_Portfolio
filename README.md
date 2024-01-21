@@ -66,7 +66,7 @@ This project was conducted on Behalf of the Humberside Fire and Rescue with the 
 
 
 
-### [Landmark (Image Classification)](https://github.com/Amro6625/Landmark_Detection.git)
+### [Landmark Detection (Image Classification)](https://github.com/Amro6625/Landmark_Detection.git)
 
 This was a experimental project to perform an image classification for touristic landmarks images. During the project i have tested several pretrained models (VGG16, ResNET), SVM model, and CNN models. The images were scrapped from various internet site. The ResNET model had shown the best accuracy with the an accuracy of 98%.
 
