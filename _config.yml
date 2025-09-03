@@ -1,3 +1,14 @@
-title: Amro Mohamed
+# GitHub Pages / Jekyll configuration
+title: "Amro Mohamed — Data Scientist"
+description: "Machine Learning, NLP, and end-to-end analytics. MSc AI & Data Science (Hull, UK)."
+# Use an official GitHub Pages theme for a clean, recruiter-friendly look
+remote_theme: pages-themes/cayman@v0.2.0
+plugins:
+  - jekyll-remote-theme
+
+# Set navigation (optional)
 show_downloads: false
-theme: jekyll-theme-minimal
+
+# Social links (optional)
+github_username: Amro6625
+linkedin_username: amro-nabil
