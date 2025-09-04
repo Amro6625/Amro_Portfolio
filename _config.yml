@@ -1,14 +1,62 @@
-# GitHub Pages / Jekyll configuration
 title: "Amro Mohamed — Data Scientist"
 description: "Machine Learning, NLP, and end-to-end analytics. MSc AI & Data Science (Hull, UK)."
-# Use an official GitHub Pages theme for a clean, recruiter-friendly look
-remote_theme: pages-themes/cayman@v0.2.0
+url: "https://amro6625.github.io"
+baseurl: "/Amro_Portfolio"
+
+# Minimal Mistakes theme via remote_theme
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 plugins:
-  - jekyll-remote-theme
+  - jekyll-include-cache
 
-# Set navigation (optional)
-show_downloads: false
+# Author profile
+author:
+  name: "Amro Mohamed"
+  avatar: "/Amro_Portfolio/assets/images/avatar.jpg" # replace with your headshot file name
+  bio: "MSc AI & Data Science (Hull, UK). I build ML/NLP systems that drive measurable business impact."
+  location: "United Kingdom"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:amro.nabil.an@gmail.com"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/amro-nabil"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/Amro6625"
+    - label: "Download CV"
+      icon: "fas fa-fw fa-file-pdf"
+      url: "/Amro_Portfolio/Amro_Mohamed_CV.pdf"
 
-# Social links (optional)
-github_username: Amro6625
-linkedin_username: amro-nabil
+# Collections
+collections:
+  projects:
+    output: true
+    permalink: /projects/:name/
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: "projects"
+    values:
+      layout: single
+      author_profile: true
+      read_time: false
+      comments: false
+      share: true
+      related: true
+
+# Navigation
+include:
+  - _pages
+
+paginate: 6
+paginate_path: /page:num/
+
+# Theme settings
+minimal_mistakes_skin: "default" # options: air, aqua, contrast, dark, dirt, neon, mint, sunrise
+search: true
+
+# Analytics (optional)
+# google_analytics: "G-XXXXXXXXXX"
