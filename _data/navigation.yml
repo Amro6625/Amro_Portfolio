@@ -1,0 +1,7 @@
+main:
+  - title: "Home"
+    url: {{ site.baseurl }}/
+  - title: "Projects"
+    url: {{ site.baseurl }}/projects/
+  - title: "About"
+    url: {{ site.baseurl }}/about/

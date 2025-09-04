@@ -7,8 +7,8 @@ plugins:
   - jekyll-include-cache
 author:
   name: "Amro Mohamed"
-  avatar: "/Amro_Portfolio/assets/images/avatar.jpg"
-  bio: "UK-based Data Scientist. I build ML/NLP systems that drive measurable business impact across fintech, retail, and public sector."
+  avatar: "{{ site.baseurl }}/assets/images/avatar.jpg"
+  bio: "UK-based Data Scientist. MSc AI & Data Science (Hull, UK). I build ML/NLP systems that deliver measurable impact."
   location: "United Kingdom"
   links:
     - label: "Email"
@@ -22,7 +22,7 @@ author:
       url: "https://github.com/Amro6625"
     - label: "Download CV"
       icon: "fas fa-fw fa-file-pdf"
-      url: "/Amro_Portfolio/Amro_Mohamed_CV.pdf"
+      url: "{{ site.baseurl }}/Amro_Mohamed_CV.pdf"
 collections:
   projects:
     output: true
