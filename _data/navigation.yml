@@ -1,7 +1,7 @@
 main:
   - title: "Home"
-    url: {{ site.baseurl }}/
+    url: /Amro_Portfolio/
   - title: "Projects"
-    url: {{ site.baseurl }}/projects/
+    url: /Amro_Portfolio/projects/
   - title: "About"
-    url: {{ site.baseurl }}/about/
+    url: /Amro_Portfolio/about/
