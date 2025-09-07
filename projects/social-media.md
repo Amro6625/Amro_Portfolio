@@ -7,15 +7,24 @@ permalink: /projects/social-media/
 # Sentiment & Risk Detection (Humberside F&R)
 
 **Problem**  
-Monitor public sentiment and proactively flag potentially risky posts relating to emergency services.
+Humberside Fire & Rescue needed to monitor community sentiment and proactively detect risky posts on social media.
 
-**Methods**  
-5.5k+ tweets via Twitter API; transformer baselines (XLNet/RoBERTa) alongside a tuned BiLSTM; class rebalancing; threshold calibration; cross‑validation.
+**Methods**
+- Collected and processed **5,500+ tweets** via Twitter API.  
+- Applied transformer baselines (XLNet, RoBERTa) alongside a **custom BiLSTM**.  
+- Engineered balanced datasets with oversampling/threshold calibration.  
+- Iterated model selection through cross-validation.  
+- Communicated insights and dashboards to stakeholders for decision-making.
 
-**Results**  
-Validation accuracy up to **94%** on risk detection with improved recall on priority incidents.
+**Results**
+- Achieved **94% validation accuracy** on risk detection.  
+- High recall on priority-risk tweets.  
+- Demonstrated scalable NLP pipeline.
 
-**Business Impact**  
-Faster incident prioritisation and improved community insight for operations.
+**Business Impact**
+- Enabled faster prioritisation of incidents.  
+- Improved situational awareness of community sentiment.  
+- Supported proactive planning for emergency response.
 
-**Code:** [https://github.com/Amro6625/Social-Media-Analysis](https://github.com/Amro6625/Social-Media-Analysis)
+**Code / Repo**  
+[Repository](https://github.com/Amro6625/Social-Media-Analysis)
