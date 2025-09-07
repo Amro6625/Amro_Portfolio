@@ -7,13 +7,21 @@ permalink: /projects/cust-support/
 # NLP Customer Support Dashboard
 
 **Problem**  
-Cut resolution time by classifying, prioritising and summarising tickets across channels.
+Customer service teams needed to reduce resolution time and handle tickets efficiently.
 
-**Methods**  
-Transformer‑based classification and summarisation; routing rules; KPI dashboard for SLAs.
+**Methods**
+- Built transformer-based classification to auto-route tickets.  
+- Developed summarisation models for quicker agent context.  
+- Integrated rules for SLA prioritisation.  
+- Created dashboards in Power BI for real-time monitoring.
 
-**Results**  
-Lower AHT and improved first‑contact resolution.
+**Results**
+- Reduced Average Handling Time (AHT).  
+- Improved First Contact Resolution rates.  
 
-**Business Impact**  
-Fewer escalations and higher CSAT.
+**Business Impact**
+- Increased efficiency of support operations.  
+- Improved customer satisfaction scores.  
+
+**Code / Repo**  
+*Demo repository planned*
