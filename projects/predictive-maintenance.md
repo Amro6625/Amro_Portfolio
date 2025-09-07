@@ -7,13 +7,23 @@ permalink: /projects/predictive-maintenance/
 # Predictive Maintenance — IoT Telemetry
 
 **Problem**  
-Identify early signs of machine failure from multivariate sensor streams.
+Factories needed to identify early signs of machine failure to reduce downtime.
 
-**Methods**  
-Signal cleaning; rolling statistics; tree‑based classifiers and survival analysis; early‑warning thresholds; calibration for precision/recall.
+**Methods**
+- Cleaned and processed multivariate sensor telemetry.  
+- Engineered rolling statistical features and failure windows.  
+- Trained ensemble models (Random Forest, Gradient Boosting).  
+- Added survival analysis to estimate time-to-failure.  
+- Calibrated thresholds to balance precision/recall.
 
-**Results**  
-Recall **92%** for early failure; ~**15%** downtime reduction in simulations.
+**Results**
+- Recall **92%** for early failure detection.  
+- Simulated downtime reduced by ~**15%**.
 
-**Business Impact**  
-Proactive maintenance scheduling and reduced unplanned outages.
+**Business Impact**
+- Proactive maintenance scheduling.  
+- Lower costs from unplanned outages.  
+- Higher equipment reliability.
+
+**Code / Repo**  
+*Demo repository planned*
