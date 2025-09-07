@@ -6,25 +6,26 @@ excerpt: "End-to-end ML and NLP projects with measurable business impact."
 header:
   overlay_color: "#000"
   overlay_filter: "0.35"
-  overlay_image: /Amro_Portfolio/assets/images/hero.jpg
+  overlay_image: https://picsum.photos/1600/400
 intro: |
-  **Hi, I'm Amro.** UK-based Data Scientist (MSc AI & Data Science, University of Hull). I design, build, and deploy practical ML/NLP solutions that reduce risk, lift conversions, and improve operations.
+  **Hi, I'm Amro.** UK-based Data Scientist (MSc AI & Data Science, University of Hull).
+  I design, build, and deploy practical ML/NLP solutions that reduce risk, lift conversions, and improve operations.
 feature_row:
-  - image_path: /Amro_Portfolio/assets/images/social-media.png
+  - image_path: https://picsum.photos/seed/a/800/450
     alt: "Sentiment and Risk Detection"
     title: "Sentiment and Risk Detection (Humberside F&R)"
     excerpt: "Up to 94% validation accuracy; faster incident prioritisation."
     url: "/Amro_Portfolio/projects/social-media/"
     btn_label: "View case study"
     btn_class: "btn--primary"
-  - image_path: /Amro_Portfolio/assets/images/landmark.png
+  - image_path: https://picsum.photos/seed/b/800/450
     alt: "Landmark Classification"
     title: "Landmark Detection — Image Classification"
     excerpt: "~98% test accuracy with ResNet on curated dataset."
     url: "/Amro_Portfolio/projects/landmark-detection/"
     btn_label: "View case study"
     btn_class: "btn--primary"
-  - image_path: /Amro_Portfolio/assets/images/uk-accidents.png
+  - image_path: https://picsum.photos/seed/c/800/450
     alt: "UK Accident Analysis"
     title: "UK Road Traffic Accident Analysis"
     excerpt: "Patterns & drivers of severity; stacking classifier for prediction."
