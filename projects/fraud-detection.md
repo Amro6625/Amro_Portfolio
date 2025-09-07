@@ -7,13 +7,22 @@ permalink: /projects/fraud-detection/
 # Fraud Detection — Transaction Monitoring (Hexatech)
 
 **Problem**  
-Lower false positives while keeping high recall in real‑time fraud detection.
+Financial institutions needed to reduce false positives in fraud detection while maintaining recall.
 
-**Methods**  
-Behavioural feature engineering; gradient‑boosted trees; stacking; threshold tuning with cost‑aware metrics.
+**Methods**
+- Engineered behavioural and transaction-based features.  
+- Trained Gradient Boosted Trees and ensemble models.  
+- Applied threshold tuning with cost-sensitive metrics.  
+- Tested robustness under class imbalance.
 
-**Results**  
-~**18%** reduction in false positives at target recall.
+**Results**
+- **~18% reduction** in false positives at high recall.  
+- Maintained coverage of fraudulent transactions.
 
-**Business Impact**  
-Lower analyst workload and better customer experience.
+**Business Impact**
+- Reduced workload for fraud analysts.  
+- Improved customer trust and satisfaction.  
+- Fewer unnecessary transaction blocks.
+
+**Code / Repo**  
+*Private client work; code sample on request*
