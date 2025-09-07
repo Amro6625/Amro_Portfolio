@@ -7,13 +7,20 @@ permalink: /projects/recsys/
 # Recommendation System & Search Optimisation
 
 **Problem**  
-Improve product discovery relevance and conversion while cutting latency.
+Improve product discovery and search efficiency for e-commerce.
 
-**Methods**  
-Hybrid recsys (collaborative + content) with ranking model; vector search; A/B testing; inference optimisations.
+**Methods**
+- Built **hybrid recommendation system** (collaborative + content + deep learning).  
+- Enhanced search ranking with **reinforcement learning**.  
+- Developed real-time pipelines (−40% processing).  
+- Integrated graph-based recsys for product associations.  
+- Conducted A/B testing on engagement.  
+- Used NLP to analyse queries for personalised results.
 
-**Results**  
-+**30%** retrieval accuracy, +**20%** conversions, **−40%** latency on the pipeline.
+**Results**
+- **+30% retrieval accuracy**, **+20% engagement/conversions**.  
+- Processing latency reduced by **40%**.
 
-**Business Impact**  
-Higher revenue per session and better UX.
+**Business Impact**
+- Higher revenue and customer satisfaction.  
+- Improved UX in product search/discovery.
