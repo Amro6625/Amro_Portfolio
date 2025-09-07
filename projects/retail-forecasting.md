@@ -7,13 +7,22 @@ permalink: /projects/retail-forecasting/
 # Retail Demand Forecasting (Hexatech)
 
 **Problem**  
-Forecast store‑SKU demand, including intermittent series, to reduce stockouts.
+Retailers needed accurate forecasts to reduce stockouts and optimise inventory.
 
-**Methods**  
-Hierarchical forecasting with exogenous variables; intermittent demand methods; sliding‑window backtesting.
+**Methods**
+- Collected store-SKU level sales data.  
+- Built hierarchical time-series forecasting models.  
+- Integrated exogenous factors (holidays, promotions).  
+- Applied intermittent demand forecasting.  
+- Used sliding-window backtesting.
 
-**Results**  
-~**22%** improvement in forecast accuracy; fewer stockouts.
+**Results**
+- Forecast accuracy improved by **22%**.  
+- Significant reduction in stockouts.  
 
-**Business Impact**  
-Optimised inventory and working capital.
+**Business Impact**
+- Optimised inventory and working capital.  
+- Higher customer satisfaction from product availability.
+
+**Code / Repo**  
+*Private client work; simulated demo planned*
