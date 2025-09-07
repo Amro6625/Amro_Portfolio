@@ -7,15 +7,24 @@ permalink: /projects/uk-accidents/
 # UK Road Traffic Accident Analysis (2020)
 
 **Problem**  
-Understand drivers of accident severity and predict risk to guide resource allocation.
+Analyse UK accident data to find severity drivers and predict likelihood.
 
-**Methods**  
-SQL ETL; clustering (K‑Means), LOF anomalies, association rules; stacking classifier with robust CV.
+**Methods**
+- Used SQL to extract/clean large datasets.  
+- Analyzed accident frequency by time/day (found **20% Friday increase**).  
+- Detected anomalies with **LOF**, finding **5% outliers**.  
+- Applied K-Means clustering → **10 high-risk areas**.  
+- Built stacked ML model (RF + GBM + Logistic).  
 
-**Results**  
-Identified junction/time hotspots; predictive model enables scenario planning.
+**Results**
+- Prediction accuracy **74%** (stacking).  
+- Balanced metrics: accuracy 68%, precision 70%, recall 65%.  
+- Forecasted **15% reduction** possible with law enforcement at peak hours.
 
-**Business Impact**  
-Data‑driven resourcing and targeted road safety actions.
+**Business Impact**
+- Supported safety campaigns (e.g. youth road safety).  
+- Guided resource deployment at junctions/high-risk times.  
+- Insights informed policy recommendations.
+
 
 **Code:** [https://github.com/Amro6625/Accident_Project-.git](https://github.com/Amro6625/Accident_Project-.git)
