@@ -6,4 +6,4 @@ permalink: /projects/
 entries_layout: grid
 ---
 
-Selected case studies aligned to UK recruiter expectations (Problem → Approach → Impact). Click a card to open the full page.
+Selected case studies (Problem → Approach → Impact). Click a card to open the full page.
