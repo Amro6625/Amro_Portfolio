@@ -1,0 +1,37 @@
+title: "Amro Mohamed - Data Scientist"
+description: "End-to-end ML & NLP. MSc AI & Data Science (Hull, UK)."
+url: "https://amro6625.github.io"
+baseurl: "/Amro_Portfolio"
+
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+plugins:
+  - jekyll-include-cache
+
+author:
+  name: "Amro Mohamed"
+  avatar: "https://picsum.photos/200"
+
+collections:
+  projects:
+    output: true
+    permalink: /projects/:name/
+
+include:
+  - _pages
+
+defaults:
+  - scope:
+      path: ""
+      type: "projects"
+    values:
+      layout: single
+      author_profile: true
+      read_time: false
+      comments: false
+      share: true
+      related: true
+
+minimal_mistakes_skin: "mint"
+search: true
+paginate: 6
+paginate_path: /page:num/
