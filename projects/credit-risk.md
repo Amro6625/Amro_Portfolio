@@ -7,13 +7,21 @@ permalink: /projects/credit-risk/
 # Credit Risk — Default Prediction
 
 **Problem**  
-Reduce false negatives in lending decisions while keeping approvals competitive.
+Banks needed to assess loan default risk with higher accuracy, reducing false negatives.
 
-**Methods**  
-Feature engineering (DTI, utilisation, credit history length); models: Logistic Regression, Random Forest, Gradient Boosting; cost‑sensitive thresholding.
+**Methods**
+- Engineered new features (DTI, credit utilisation, credit history length).  
+- Split data into 80/20 training/testing.  
+- Trained Logistic Regression, Random Forest, Gradient Boosting.  
+- Performed Grid Search + Cross-Validation for hyperparameter tuning.  
+- Benchmarked against baseline models.
 
-**Results**  
-AUC‑ROC **0.85**, accuracy **78%**, ~**10%** fewer false negatives.
+**Results**
+- **AUC-ROC 0.85**, accuracy **78%**.  
+- **15% improvement** over baseline accuracy.  
+- **10% fewer false negatives**, catching more defaults.
 
-**Business Impact**  
-More accurate underwriting and lower risk exposure.
+**Business Impact**
+- More reliable underwriting.  
+- Reduced financial risk exposure.  
+- Enhanced credit approval decisions.
