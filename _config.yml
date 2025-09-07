@@ -1,6 +1,30 @@
-title: "Amro Mohamed - Data Scientist"
+title: "Amro Mohamed – Data Scientist"
 description: "UK-based Data Scientist. End-to-end ML & NLP with business impact."
 url: "https://amro6625.github.io"
 baseurl: "/Amro_Portfolio"
-theme: jekyll-theme-primer
-markdown: kramdown
+
+# Fancy, recruiter-friendly theme
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+minimal_mistakes_skin: "mint"
+plugins:
+  - jekyll-include-cache
+
+# Optional author box (no avatar image to keep it simple)
+author:
+  name: "Amro Mohamed"
+  bio: "MSc AI & Data Science (Hull, UK). I build ML/NLP systems that reduce risk, lift conversions, and improve operations."
+  location: "United Kingdom"
+  links:
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/amro-nabil"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/Amro6625"
+    - label: "Download CV"
+      icon: "fas fa-fw fa-file-pdf"
+      url: "/Amro_Portfolio/Amro_Mohamed_CV.pdf"
+
+# Keep things simple: no collections, just plain pages under /projects/
+permalink: /:title/
+search: true
