@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: single
 title: "Predictive Maintenance — IoT Telemetry"
 permalink: /projects/predictive-maintenance/
 ---
