@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: single
 title: "NLP Customer Support Dashboard"
 permalink: /projects/cust-support/
 ---
