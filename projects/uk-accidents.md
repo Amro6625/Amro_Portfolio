@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: single
 title: "UK Road Traffic Accident Analysis (2020)"
 permalink: /projects/uk-accidents/
 ---
