@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: single
 title: "Landmark Detection — Image Classification"
 permalink: /projects/landmark-detection/
 ---
