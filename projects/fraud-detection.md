@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: single
 title: "Fraud Detection — Transaction Monitoring (Hexatech)"
 permalink: /projects/fraud-detection/
 ---
