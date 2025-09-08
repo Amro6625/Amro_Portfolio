@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: single
 title: "News Sentiment & Stock Movement"
 permalink: /projects/stock-sentiment/
 ---
