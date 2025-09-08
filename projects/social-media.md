@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: single
 title: "Sentiment & Risk Detection (Humberside F&R)"
 permalink: /projects/social-media/
 ---
