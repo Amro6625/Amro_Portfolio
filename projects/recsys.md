@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: single
 title: "Recommendation System & Search Optimisation"
 permalink: /projects/recsys/
 ---
