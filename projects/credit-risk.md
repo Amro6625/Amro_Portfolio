@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: single
 title: "Credit Risk — Default Prediction"
 permalink: /projects/credit-risk/
 ---
