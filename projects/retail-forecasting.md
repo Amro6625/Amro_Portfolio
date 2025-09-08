@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: single
 title: "Retail Demand Forecasting (Hexatech)"
 permalink: /projects/retail-forecasting/
 ---
