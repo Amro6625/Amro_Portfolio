@@ -11,7 +11,19 @@ plugins:
 
 author:
   name: "Amro Mohamed"
+  avatar: "/Amro_Portfolio/assets/images/IMG-20250227-WA0003.jpg"
   bio: "MSc AI & Data Science (Hull, UK). I build ML/NLP systems that reduce risk, lift conversions, and improve operations."
   location: "United Kingdom"
+  links:
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/amro-nabil"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/Amro6625"
+    - label: "Download CV"
+      icon: "fas fa-fw fa-file-pdf"
+      url: "/Amro_Portfolio/Amro_Mohamed_CV.pdf"
+
 
 search: true
