@@ -8,6 +8,7 @@ header:
 ---
 
 
+
 <div class="notice--primary">
 <strong>Hi, I'm Amro.</strong> UK-based Data Scientist (MSc AI & Data Science, University of Hull).
 I deliver ML/NLP solutions that reduce risk, lift conversions, and improve operations.
