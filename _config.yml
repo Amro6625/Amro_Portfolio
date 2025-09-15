@@ -11,9 +11,10 @@ plugins:
 
 author:
   name: "Amro Mohamed"
-  avatar: "/assets/images/amro.jpg"   # <-- no /Amro_Portfolio here
+  avatar: "/assets/images/amro.jpg"   # leave as a site-relative path
   bio: "MSc AI & Data Science (Hull, UK). I build ML/NLP systems that reduce risk, lift conversions, and improve operations."
   location: "United Kingdom"
+
 
 
 
