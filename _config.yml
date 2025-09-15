@@ -11,9 +11,10 @@ plugins:
 
 author:
   name: "Amro Mohamed"
-  avatar: "/Amro_Portfolio/assets/images/IMG-20250227-WA0003.jpg"
+  avatar: "/assets/images/amro.jpg"   # <-- no /Amro_Portfolio here
   bio: "MSc AI & Data Science (Hull, UK). I build ML/NLP systems that reduce risk, lift conversions, and improve operations."
   location: "United Kingdom"
+
 
 
 
