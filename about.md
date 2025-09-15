@@ -2,6 +2,7 @@
 layout: single
 title: "About"
 permalink: /about/
+author_profile: true
 ---
 
 **Hi, I'm Amro.** I'm a Data Scientist with an MSc in AI & Data Science (University of Hull, UK).  
