@@ -1,11 +1,12 @@
 ---
 layout: home
 title: "Data Science Portfolio"
-author_profile: false
+author_profile: true
 header:
   overlay_color: "#0b253a"
   overlay_filter: "0.25"
 ---
+
 
 <div class="notice--primary">
 <strong>Hi, I'm Amro.</strong> UK-based Data Scientist (MSc AI & Data Science, University of Hull).
