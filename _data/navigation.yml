@@ -1,7 +1,7 @@
 main:
   - title: "Home"
-    url: /Amro_Portfolio/
+    url: /
   - title: "Projects"
-    url: /Amro_Portfolio/projects/
+    url: /projects/
   - title: "About"
-    url: /Amro_Portfolio/about/
+    url: /about/
