@@ -1,9 +1,17 @@
 <style>
-/* Make the author avatar larger on pages with author_profile: true */
+/* Make author avatar bigger on pages that use author_profile: true */
+.author__avatar { 
+  width: 180px !important; 
+  height: 180px !important; 
+}
 .author__avatar img {
-  width: 300px !important;
+  width: 180px !important;
   height: 180px !important;
   border-radius: 50%;
 }
-</style>
 
+/* Optional: give the text a bit more room next to the big photo */
+.author__content {
+  max-width: 680px;
+}
+</style>
