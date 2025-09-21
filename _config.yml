@@ -11,7 +11,7 @@ plugins:
 
 author:
   name: "Amro Mohamed"
-  avatar: "/assets/images/amro.jpg"   # leave as a site-relative path
+  avatar: "/assets/images/amro_v2.jpg"   # NEW name = cache buster
   bio: "MSc AI & Data Science (Hull, UK). I build ML/NLP systems that reduce risk, lift conversions, and improve operations."
   location: "United Kingdom"
 
