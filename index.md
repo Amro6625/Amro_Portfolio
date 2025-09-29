@@ -24,7 +24,10 @@ I deliver ML/NLP solutions that reduce risk, lift conversions, and improve opera
 
 - **Sentiment & Risk Detection (Humberside F&R)** — 94% validation accuracy; faster incident prioritisation.  
   <a class="btn btn--small" href="/Amro_Portfolio/projects/social-media/">Open case study</a><br>
+- **Customer Churn Prediction — Telecom** — AUC 0.841; F1 0.637  
+  <a class="btn btn--small" href="{{ '/projects/customer-churn/' | relative_url }}">Open case study</a><br>
 - **Landmark Detection — Image Classification** — ~98% test accuracy with ResNet.  
   <a class="btn btn--small" href="/Amro_Portfolio/projects/landmark-detection/">Open case study</a><br>
 - **UK Road Traffic Accident Analysis** — severity drivers + stacked predictor.  
   <a class="btn btn--small" href="/Amro_Portfolio/projects/uk-accidents/">Open case study</a>
+  
