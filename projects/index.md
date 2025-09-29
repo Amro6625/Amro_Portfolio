@@ -26,3 +26,5 @@ The case studies below follow **Problem → Methods → Results → Business imp
    <a class="btn btn--small btn--primary" href="/Amro_Portfolio/projects/cust-support/">Open</a>
 10. **News Sentiment & Stock Movement** — sentiment adds signal vs baseline  
     <a class="btn btn--small btn--primary" href="/Amro_Portfolio/projects/stock-sentiment/">Open</a>
+11.**Customer Churn Prediction — Telecom** — AUC 0.841; F1 0.637  
+<a class="btn btn--small btn--primary" href="{{ '/projects/customer-churn/' | relative_url }}">Open</a>
