@@ -1,10 +1,9 @@
 ---
 layout: single
-title: "Customer Churn Prediction — Telecom"
+title: "Customer Churn Prediction"
 permalink: /projects/customer-churn/
 ---
 
-# Customer Churn Prediction — Telecom
 
 **Problem**  
 Predict which customers are likely to churn next cycle so retention can intervene early (cost-sensitive framing prioritising recall on churn while controlling precision to protect ROI). :contentReference[oaicite:0]{index=0}
