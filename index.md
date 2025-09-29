@@ -22,7 +22,7 @@ I deliver ML/NLP solutions that reduce risk, lift conversions, and improve opera
 
 **Featured case studies**
 
-- **Sentiment & Risk Detection (Humberside F&R)** — 94% validation accuracy; faster incident prioritisation.  
+- **Sentiment & Risk Detection (Humberside Fire & Rescue)** — 94% validation accuracy; faster incident prioritisation.  
   <a class="btn btn--small" href="/Amro_Portfolio/projects/social-media/">Open case study</a><br>
 - **Customer Churn Prediction — Telecom** — AUC 0.841; F1 0.637  
   <a class="btn btn--small" href="{{ '/projects/customer-churn/' | relative_url }}">Open case study</a><br>
