@@ -4,7 +4,6 @@ title: "Credit Risk — Default Prediction"
 permalink: /projects/credit-risk/
 ---
 
-# Credit Risk — Default Prediction
 
 **Problem**  
 Reduce false negatives in lending decisions while keeping approvals competitive.
@@ -27,4 +26,6 @@ Reduce false negatives in lending decisions while keeping approvals competitive.
 - Better credit decisions
 
 **Code / Repo**  
-*Demo repository planned*
+**Code / Repo**  
+[Repository](https://github.com/Amro6625/Credit-Risk-Analysis)
+
